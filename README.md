@@ -1,2 +1,2 @@
-# test_hw
-my first repositoriy
+# JS_test
+repositoriy fot study
